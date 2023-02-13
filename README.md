@@ -20,7 +20,7 @@ Intagram clone project developed to practice React. Still in progress.
 
 NodeJS must be already installed.
 
-Clone the repository and run the commands for both client and server. 
+Clone the repository [https://github.com/oleksandrbezsonov/fakesta.git] and run the commands in terminal for both client and server. 
 ```shell
 npm install
 npm start
